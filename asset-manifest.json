@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://tolulopeoduro.github.io/csb-495jc/static/css/main.cd6ab755.chunk.css",
+    "main.js": "https://tolulopeoduro.github.io/csb-495jc/static/js/main.d4f13eae.chunk.js",
+    "main.js.map": "https://tolulopeoduro.github.io/csb-495jc/static/js/main.d4f13eae.chunk.js.map",
+    "runtime-main.js": "https://tolulopeoduro.github.io/csb-495jc/static/js/runtime-main.01a03c51.js",
+    "runtime-main.js.map": "https://tolulopeoduro.github.io/csb-495jc/static/js/runtime-main.01a03c51.js.map",
+    "static/js/2.66b457a6.chunk.js": "https://tolulopeoduro.github.io/csb-495jc/static/js/2.66b457a6.chunk.js",
+    "static/js/2.66b457a6.chunk.js.map": "https://tolulopeoduro.github.io/csb-495jc/static/js/2.66b457a6.chunk.js.map",
+    "static/js/3.a3ad19e4.chunk.js": "https://tolulopeoduro.github.io/csb-495jc/static/js/3.a3ad19e4.chunk.js",
+    "static/js/3.a3ad19e4.chunk.js.map": "https://tolulopeoduro.github.io/csb-495jc/static/js/3.a3ad19e4.chunk.js.map",
+    "index.html": "https://tolulopeoduro.github.io/csb-495jc/index.html",
+    "static/css/main.cd6ab755.chunk.css.map": "https://tolulopeoduro.github.io/csb-495jc/static/css/main.cd6ab755.chunk.css.map",
+    "static/js/2.66b457a6.chunk.js.LICENSE.txt": "https://tolulopeoduro.github.io/csb-495jc/static/js/2.66b457a6.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "https://tolulopeoduro.github.io/csb-495jc/static/media/Lato-Regular.9919edff.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01a03c51.js",
+    "static/js/2.66b457a6.chunk.js",
+    "static/css/main.cd6ab755.chunk.css",
+    "static/js/main.d4f13eae.chunk.js"
+  ]
+}
